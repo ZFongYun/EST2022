@@ -1,8 +1,10 @@
 ## 第29屆中華民國人因工程學會年會暨學術研討會 官方網站
 線上網站：http://est.org.tw/est2022/
 
+![est2022](https://user-images.githubusercontent.com/53658361/179456205-71cb91aa-df68-4fa8-a8d1-dedef7e96d10.jpg)
+
 ### 安裝
-1. 在terminal輸入` https://github.com/ZFongYun/EST2022.git `
+1. 在terminal輸入` git clone https://github.com/ZFongYun/EST2022.git `
 2. 完成下載專案後，開啟資料夾內的` index.html `檔案，便可進入網站首頁
 
 ### 操作指南
